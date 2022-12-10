@@ -1,5 +1,7 @@
 # Tox Bootstrap Node
 
+tox-node was [merged](https://github.com/tox-rs/tox/tree/master/tox_node) into the main [tox repository](https://github.com/tox-rs/tox).
+
 A server application to run tox bootstrap node.
 
 ## Building and running
